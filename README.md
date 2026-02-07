@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A passionate frontend developer and a learner of Cybersecurity</h3>
+![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvc-2938&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvc-2938" /> </p>
 
