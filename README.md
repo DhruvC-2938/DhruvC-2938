@@ -59,40 +59,6 @@ Welcome to my GitHub profile! 😎
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 ResumeScope AI
-
-AI-powered resume analysis platform that analyzes resumes, identifies skill gaps and provides actionable feedback.
-
-**Tech:** React • TypeScript • AI • Vite
-
----
-
-### 🛡️ DeepScan
-
-A C++ network security simulator demonstrating real-world cybersecurity concepts through fundamental Data Structures and Algorithms.
-
-**Tech:** C++ • DSA • Network Security • Graphs • Trie • Dijkstra
-
----
-
-### 🏥 Hospital Management System
-
-A web-based hospital management application for managing hospital-related data and workflows.
-
-**Tech:** JavaScript • React • Supabase
-
----
-
-### 📊 Complexity Analyzer
-
-A developer tool that analyzes source code complexity and ranks functions based on control flow, loops, switches and nesting depth.
-
-**Tech:** React • JavaScript • Monaco Editor
-
----
-
 ## 🌱 Currently Exploring
 
 ```text
