@@ -110,22 +110,6 @@
 
 ---
 
-## 🌱 Open Source Journey
-
-```text
-Build
-  ↓
-Learn
-  ↓
-Contribute
-  ↓
-Review
-  ↓
-Ship
-  ↓
-Repeat 🚀
-```
-
 Currently exploring open-source contributions across:
 
 `React` • `TypeScript` • `Stellar` • `Soroban` • `Cybersecurity` • `AI`
