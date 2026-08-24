@@ -93,13 +93,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvC-2938&theme=tokyonight" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DhruvC-2938&theme=tokyonight&utcOffset=5.5" width="45%" />
 </p>
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhruvC-2938&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
 ---
 
 ## 📌 GitHub Profile Summary
